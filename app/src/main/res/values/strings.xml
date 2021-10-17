@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Trip Management</string>
+    <string name="notification_title">MY LOCATION APP</string>
+    <string name="notification_message">Working wth location</string>
+</resources>
